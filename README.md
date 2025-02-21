@@ -1,5 +1,9 @@
 # Dynamic Subagent Creation & Role Assignment and Agent Registry & Metadata Database
 
+AI agents are autonomous systems designed to perceive their environment, process information, and take actions to achieve specific goals. They can be rule-based or driven by machine learning models, and they often interact with other agents, users, or external systems to complete complex tasks.
+
+In agentic architectures, AI agents can dynamically create, configure, and deploy other agents based on task requirements. This is typically done using a self-replicating, task-delegating, or hierarchical system.
+
 **Description:**  
 To scale the **Super AI Agents Infrastructure**, we need to implement two core modules:  
 1. **Dynamic Subagent Creation & Role Assignment**  
