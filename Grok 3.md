@@ -13,6 +13,20 @@ Unlike traditional AI models, **Grok 3** is built for **real-time learning, pred
 - **DeepSearch AI:** Unlike ChatGPT and Claude, Grok 3 retrieves real-time information from the **entire internet** for up-to-date responses.  
 - **Best-in-Class Coding & Math:** Excels at **code debugging, algorithm optimization, and solving complex scientific problems**.  
 - **Predictive Reasoning:** Can model long-term **weather forecasting**, **game balancing** (Path of Exile 2), and **financial analysis**.  
+- **Multimodal Capabilities:** Supports **text, images, and Aurora (text-to-image generation)** for **photorealistic visuals**.  
+
+---
+
+## 🔍 **How Was Grok 3 Trained?**  
+### 📌 **Training Methodology & Data Sources**
+- **Massive Dataset:** Trained on **12.8 trillion tokens**, sourced from **publicly available internet data and proprietary datasets from X (formerly Twitter)**.  
+- **Reinforcement Learning:** Uses **reinforcement learning at an unprecedented scale** to refine its chain-of-thought reasoning.  
+- **Computational Power:** Developed on **Colossus**, using **200,000 Nvidia H100 GPUs**, making it one of the **largest AI training projects ever undertaken**.  
+
+### 📌 **Specialized AI Capabilities**
+- **Advanced Mathematical & Scientific Reasoning:** Grok 3 **outperforms competitors in benchmark tests for physics, mathematics, and scientific problem-solving**.  
+- **Live Code Debugging & Development:** Can **write, debug, and optimize code** faster than GPT-4o and Claude 3.5.  
+- **Real-Time Knowledge Updates:** Unlike GPT-4o and Claude 3.5, Grok 3 **does not rely solely on static pre-trained knowledge**—it continuously **retrieves and integrates real-world data**.  
 
 ---
 
@@ -25,8 +39,10 @@ Grok 3 is **designed for high-performance tasks**, making it a **next-generation
 | **Coding & Debugging** | ✅ Best | Good | Average | Good |
 | **DeepSearch AI** | ✅ Yes | ❌ No | ❌ No | ❌ No |
 | **Predictive Reasoning** | ✅ Yes | ❌ No | ❌ No | ❌ No |
+| **Live Internet Knowledge** | ✅ Yes | ❌ No | ❌ No | ❌ No |
+| **Multimodal (Text + Image)** | ✅ Yes | ✅ Yes | ❌ No | ✅ Yes |
 
-Grok 3's **ability to dynamically analyze live information** gives it a significant advantage over **GPT-4o and Claude 3.5**, which rely on pre-trained data.
+Grok 3’s **ability to dynamically analyze live information** gives it a significant advantage over **GPT-4o and Claude 3.5**, which rely on pre-trained data.
 
 ---
 
