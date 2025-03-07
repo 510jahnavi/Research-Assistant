@@ -105,19 +105,4 @@ The API token **expires frequently**, so **you must update it manually** in the 
 ### **3️⃣ `pandas.errors.EmptyDataError` in `combine_csv.py`**
 - One or more CSV files are empty. Check and remove them before merging.
 
----
 
-## **📜 License**
-This project is for **educational purposes only**. Data fetched is subject to **BCBS terms and conditions**.
-
----
-
-## **👨‍💻 Author**
-**Jahnavi Mishra**  
-🔗 **LinkedIn:** [Your Profile]  
-📧 **Email:** [Your Email]  
-
----
-
-**🎥 Next Steps:**  
-- Record a **video demo** showing how the script works step by step! 🎬🚀
