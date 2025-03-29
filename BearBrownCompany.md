@@ -1,4 +1,3 @@
-```markdown
 # 🎵 BearBrownCompany — Music Website UI (Generated via V0 by Vercel)
 
 Welcome to the UI repository for **BearBrownCompany**, a music production brand focused on raw, real, and resonant sounds.
@@ -39,7 +38,7 @@ Each section below was generated using [V0.dev](https://v0.dev). All prompts are
 
 ### 🧭 1. Global Layout
 
-```text
+```
 Create a global layout for "BearBrownCompany", a music production website. Include a dark-themed navbar with the logo, navigation links (Home, Upload, Tracks, About, Contact), and a sticky header. Add a footer with copyright info and social links.
 ```
 
@@ -47,7 +46,7 @@ Create a global layout for "BearBrownCompany", a music production website. Inclu
 
 ### 🏠 2. Homepage
 
-```text
+```
 Design a homepage for BearBrownCompany with a full-screen hero section, tagline "Raw. Real. Resonant.", top featured tracks, about blurb, and a call-to-action to upload or explore tracks. Match layout and style with the global layout.
 ```
 
@@ -55,7 +54,7 @@ Design a homepage for BearBrownCompany with a full-screen hero section, tagline 
 
 ### 🎧 3. Track Gallery Page
 
-```text
+```
 Create a public-facing track gallery page that lists music uploaded by artists. Each card should have album art, title, artist, genre, and a play button. Add a search bar and genre filter. Match BearBrownCompany's dark branding.
 ```
 
@@ -63,7 +62,7 @@ Create a public-facing track gallery page that lists music uploaded by artists. 
 
 ### ⬆️ 4. Track Upload Page
 
-```text
+```
 Design a track upload form for BearBrownCompany. Fields: Track Title, Genre (dropdown), Description, Upload File (MP3/WAV). After upload, show the uploaded tracks in a list. Styled to match rest of site. Use same global layout.
 ```
 
@@ -71,7 +70,7 @@ Design a track upload form for BearBrownCompany. Fields: Track Title, Genre (dro
 
 ### 👤 5. About Page
 
-```text
+```
 Create an About page for BearBrownCompany. Include a mission statement, founders' bios, and testimonials from artists. Use gritty, modern design that fits the music brand.
 ```
 
@@ -79,7 +78,7 @@ Create an About page for BearBrownCompany. Include a mission statement, founders
 
 ### ✉️ 6. Contact Page
 
-```text
+```
 Design a contact page for BearBrownCompany with a form (name, email, message), social media icons, and contact info. Keep consistent style and layout.
 ```
 
@@ -87,7 +86,7 @@ Design a contact page for BearBrownCompany with a form (name, email, message), s
 
 ### 🛠️ 7. Admin Dashboard (Optional)
 
-```text
+```
 Design an admin dashboard for BearBrownCompany to manage uploaded tracks. Include navigation on the left, a table showing track title, upload date, genre, and actions like edit/delete. Use a minimal, professional style.
 ```
 
@@ -126,7 +125,4 @@ MIT License. Generated UI components may include styles based on shadcn/ui licen
 Built with ❤️ using [V0 by Vercel](https://v0.dev) and vibes by BearBrownCompany 🎶
 ```
 
-
-
-
-
+---
